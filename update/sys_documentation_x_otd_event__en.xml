@@ -11,8 +11,8 @@
             <plural>Events</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-03-14 20:35:13</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_created_on>2017-03-14 23:04:33</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>ff1aaff0672132001ad95bb557415a7b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Event</sys_name>

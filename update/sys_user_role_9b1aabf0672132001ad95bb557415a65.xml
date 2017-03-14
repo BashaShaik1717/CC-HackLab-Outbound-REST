@@ -12,7 +12,7 @@
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-03-14 20:35:11</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>9b1aabf0672132001ad95bb557415a65</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_otd.event_user</sys_name>
