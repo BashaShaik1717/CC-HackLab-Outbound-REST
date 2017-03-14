@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Page" max_length="40" name="x_otd_page" type="collection">
+        <element default="javascript:new GlideDate();" display="true" label="Date" mandatory="true" max_length="40" name="date" type="glide_date"/>
+        <element choice="3" default="New" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element label="New" sequence="0" value="New"/>
+                <element label="Retrieved" sequence="1" value="Retrieved"/>
+            </choice>
+        </element>
+    </element>
+</database>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Event" max_length="40" name="x_otd_event" type="collection">
+        <element label="Page" max_length="32" name="page" read_only="true" reference="x_otd_page" reference_cascade_rule="delete" type="reference"/>
+        <element attributes="no_truncate=true" label="Text" max_length="1000" name="text" type="string"/>
+        <element label="Year" max_length="40" name="year" type="integer"/>
+        <index name="index">
+            <element name="page"/>
+        </index>
+    </element>
+</database>
