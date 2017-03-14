@@ -14,7 +14,7 @@
         <sys_class_name>sys_rest_message</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-03-14 23:06:03</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>167cc441672132001ad95bb557415a47</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Wikipedia</sys_name>
